@@ -1,0 +1,25 @@
+/* Selector by tag */
+h1
+{
+    color: rgba(165, 81, 42, 0.489);
+}
+h2
+{
+    color:blueviolet
+}
+p
+{
+    color:chartreuse}
+article h2
+{
+    color:burlywood
+}
+article 
+{
+    color: darkgoldenrod;
+}
+ul{
+    color: crimson;
+}
+/* Selector by class */
+
