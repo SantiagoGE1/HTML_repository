@@ -2,10 +2,13 @@
 h1
 {
     color: rgba(165, 81, 42, 0.489);
+    font-style: italic;
 }
 h2
 {
-    color:blueviolet
+    color:blueviolet;
+    font-style: initial;
+    font-size: 5rem;
 }
 p
 {
