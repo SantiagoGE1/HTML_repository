@@ -7,7 +7,7 @@ h1
 h2
 {
     color:blueviolet;
-    font-style: initial;
+    transform-style: preserve-3d;
     font-size: 5rem;
 }
 p
